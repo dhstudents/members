@@ -1,0 +1,10 @@
+{
+    "members" : [
+        {"id" : 1 , "name" : "Boby" , "ismember" : true , "picture" : ""},
+        {"id" : 2 , "name" : "Jack" , "ismember" : true , "picture" : ""},
+        {"id" : 3 , "name" : "Mark" , "ismember" : true , "picture" : ""},
+        {"id" : 4 , "name" : "Rick" , "ismember" : false, "picture" : ""},
+        {"id" : 5 , "name" : "Dave" , "ismember" : true , "picture" : ""},
+        {"id" : 6 , "name" : "Ruby" , "ismember" : false , "picture" : ""},
+    ]
+}
