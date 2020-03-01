@@ -5,6 +5,6 @@
         {"id" : 3 , "name" : "Mark" , "ismember" : true , "picture" : ""},
         {"id" : 4 , "name" : "Rick" , "ismember" : false, "picture" : ""},
         {"id" : 5 , "name" : "Dave" , "ismember" : true , "picture" : ""},
-        {"id" : 6 , "name" : "Ruby" , "ismember" : false , "picture" : ""},
+        {"id" : 6 , "name" : "Ruby" , "ismember" : false , "picture" : ""}
     ]
 }
